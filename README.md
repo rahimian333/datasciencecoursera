@@ -1,5 +1,0 @@
-datasciencecoursera
-===================
-
-Evaluation project
-
